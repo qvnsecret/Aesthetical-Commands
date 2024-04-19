@@ -8,5 +8,5 @@ Please note that this bot is not affiliated with the official Roblox Aesthetical
 - Commands/Owners
 - Commands/Info
 - Commands/Admins
-
+&#xF3DE;
 ### SOON
