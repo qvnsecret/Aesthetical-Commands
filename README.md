@@ -13,4 +13,4 @@ Mytho is a streamlined and efficient Discord bot created by Reduce, a company de
 - Commands/Admin
 
 ## Social Media
-Currently, Mytho does not have any official social media presence. We believe it's not necessary at this stage since the project is still in its early phases and our focus is on other aspects of development. However, if you are capable of managing and creating a social media presence for Mytho with approval from Mytho HQ, we would be interested in collaborating with you. Please note that this would be a voluntary role, as we are not offering **compensation** at this time.
+Currently, Mytho does not have any official social media presence. We believe it's not necessary at this stage since the project is still in its early phases and our focus is on other aspects of development. However, if you are capable of managing and creating a social media presence for Mytho with approval from Mytho HQ, we would be interested in collaborating with you. Please note that this would be a voluntary role, as we are not offering **### compensation** at this time.
