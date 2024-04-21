@@ -1,7 +1,6 @@
 # 🤖·Mytho Presents
 Mytho is a streamlined and efficient Discord bot created by Reduce, a company dedicated to developing practical digital solutions. Designed with simplicity in mind, Mytho allows server administrators to quickly set up robust security measures with minimal effort, ensuring that your server remains safe from unwanted disruptions. Its user-friendly interface and powerful features make it an essential tool for maintaining a secure and enjoyable community space.
 
-[![](https://visitcount.itsvg.in/api?id=qvnsecret&icon=1&color=8)](https://visitcount.itsvg.in)
 
 # Index
 - Social Media
@@ -55,3 +54,8 @@ These Terms shall be governed by the laws of the jurisdiction in which the Compa
 _________________________________________________________
 
 *These Terms constitute the entire agreement between you and the Company and govern your use of Mytho, superseding any prior agreements between you and the Company regarding Mytho.*
+
+[![](https://visitcount.itsvg.in/api?id=qvnsecret&icon=1&color=8)](https://visitcount.itsvg.in)
+
+
+*Last Update - 21/07/24 17:17 GMT+2*
