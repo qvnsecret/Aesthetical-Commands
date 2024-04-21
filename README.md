@@ -6,7 +6,7 @@ Mytho is a streamlined and efficient Discord bot created by Reduce, a company de
 # Index
 - Social Media
 - Privacy
-- Terms of use
+- Mytho Terms of Use Agreement
 - Commands
 - Commands/Owners
 - Commands/Info
@@ -15,11 +15,15 @@ Mytho is a streamlined and efficient Discord bot created by Reduce, a company de
 ## 🎭·Social Media
 Currently, Mytho does not have any official social media presence. We believe it's not necessary at this stage since the project is still in its early phases and our focus is on other aspects of development. However, if you are capable of managing and creating a social media presence for Mytho with approval from Mytho HQ, we would be interested in collaborating with you. Please note that this would be a voluntary role, as we are not offering **compensation** at this time.
 
-## 📘·Privacy
-We highly respect your privacy, only the founder & ceo of the project as access to your privacy. Your privacy is highly important for us, and we recive your personal information for educational pruporse only.
+## 📘·Privacy Statement
 
-## 📁·Terms of use
-Mytho Terms of Use Agreement
+At Mytho, operated by Reduce, we hold the utmost respect for your privacy. Only the Founder & CEO of the project has access to your personal information. Your privacy is of paramount importance to us. Please be assured that any personal information we collect is solely for educational purposes.
+
+---
+
+This statement makes clear who has access to personal information and the purpose behind collecting it, maintaining transparency and building trust.
+
+## 📁·Terms of Use Agreement
 
 **1. Acceptance of Terms**
 By accessing and using the Mytho Discord bot *“Mytho”*, you agree to be bound by these Terms of Use *"Terms"*. These Terms are a legal agreement between you and Reduce (the “Company”), the operator of Mytho. If you do not agree to these Terms, **please do not use Mytho.**
