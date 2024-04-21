@@ -53,4 +53,4 @@ These Terms shall be governed by the laws of the jurisdiction in which the Compa
 
 _________________________________________________________
 
-*These Terms constitute the entire agreement between you and the Company and govern your use of Mytho, superseding any prior agreements between you and the Company regarding Mytho.**
+*These Terms constitute the entire agreement between you and the Company and govern your use of Mytho, superseding any prior agreements between you and the Company regarding Mytho.*
